@@ -1,0 +1,9 @@
+{
+  "caption": "A vibrant red steak with a smooth surface and a small circular cut, in flat cartoon vector style, bright lighting, vivid colors, no background",
+  "drawing_style": "flat cartoon vector",
+  "quantity": 1,
+  "background": "no background",
+  "image_path": "output_st/outputs_method2/session_20250609_232445\\uploaded_20250609_232445.png",
+  "user_prompt": "Draw a baby squid sushi (firefly sushi) in the exact same illustration style as the image I uploaded. Match the cartoon vector look, colors, and outlines.",
+  "generated_image_path": "output_st/outputs_method2/session_20250609_232445\\generated_20250609_232445.png"
+}
