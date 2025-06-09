@@ -1,0 +1,7 @@
+{
+  "category": "fruit",
+  "caption": "A vibrant green apple with a glossy surface, featuring a small brown stem and a single leaf, set against a plain white background that enhances its fresh and crisp appearance.",
+  "image_path": "app/outputs/session_20250609_112249\\uploaded_20250609_112249.png",
+  "user_prompt": "Draw a red apple",
+  "generated_image_path": "app/outputs/session_20250609_112249\\generated_20250609_112249.png"
+}

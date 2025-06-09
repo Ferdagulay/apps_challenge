@@ -1,0 +1,9 @@
+{
+  "caption": "A vibrant red cherry with a glossy surface and a small stem, in flat cartoon vector style, bright lighting, vivid colors, no background",
+  "drawing_style": "flat cartoon vector",
+  "quantity": 1,
+  "background": "no background",
+  "image_path": "app/outputs_method2/session_20250609_122018\\uploaded_20250609_122018.png",
+  "user_prompt": "Using the same illustration style as the cranbery image I uploaded, draw a vibrant green pear with a smooth surface. Match the exact visual style.",
+  "generated_image_path": "app/outputs_method2/session_20250609_122018\\generated_20250609_122018.png"
+}

@@ -1,0 +1,10 @@
+{
+  "category": "cherry",
+  "caption": "A shiny red cherry with a small stem and a glossy surface, depicted in a flat cartoon vector style, bright lighting, vibrant colors, no background.",
+  "drawing_style": "flat cartoon vector",
+  "quantity": 1,
+  "background": "no background",
+  "image_path": "app/outputs_method2/session_20250609_120738\\uploaded_20250609_120738.png",
+  "user_prompt": "Using the same illustration style as the image I uploaded, draw a vibrant green pear with a smooth surface. Match the exact visual style.",
+  "generated_image_path": "app/outputs_method2/session_20250609_120738\\generated_20250609_120738.png"
+}

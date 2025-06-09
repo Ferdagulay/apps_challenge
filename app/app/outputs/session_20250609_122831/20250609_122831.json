@@ -1,0 +1,7 @@
+{
+  "category": "fruit",
+  "caption": "A stylized illustration of a single dark purple olive, featuring a glossy surface that reflects light, with a small brown pit visible at the bottom, set against a clean white background that enhances its vibrant color.",
+  "image_path": "app/outputs/session_20250609_122831\\uploaded_20250609_122831.png",
+  "user_prompt": "I uploaded a black currant image. Using the same illustration style the image I uploaded, draw a vibrant green pear with a smooth surface. Match the exact visual style.",
+  "generated_image_path": "app/outputs/session_20250609_122831\\generated_20250609_122831.png"
+}

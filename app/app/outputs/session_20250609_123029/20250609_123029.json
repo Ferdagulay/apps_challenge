@@ -1,0 +1,7 @@
+{
+  "category": "fruit",
+  "caption": "A single, glossy black olive with a smooth surface and a small brown pit visible at the bottom, set against a clean white background that highlights its rich, dark color and round shape.",
+  "image_path": "app/outputs/session_20250609_123029\\uploaded_20250609_123029.png",
+  "user_prompt": "This is a  black currant . Draw me a green pear. Use the same image drawing style in the image.",
+  "generated_image_path": "app/outputs/session_20250609_123029\\generated_20250609_123029.png"
+}

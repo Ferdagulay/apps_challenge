@@ -1,0 +1,7 @@
+{
+  "category": "fruit",
+  "caption": "A stylized illustration of a single dark purple olive, featuring a glossy surface with subtle highlights and a small brown pit visible at the bottom, set against a clean white background that emphasizes its round shape and rich color.",
+  "image_path": "app/outputs/session_20250609_122612\\uploaded_20250609_122612.png",
+  "user_prompt": "Using the same illustration style as the cranberry image I uploaded, draw a vibrant green pear with a smooth surface. Match the exact visual style.",
+  "generated_image_path": "app/outputs/session_20250609_122612\\generated_20250609_122612.png"
+}

@@ -1,0 +1,7 @@
+{
+  "category": "fruit",
+  "caption": "A vibrant, glossy red cherry with a smooth surface, featuring a small, dark pit on one side and a subtle highlight that adds depth, set against a plain white background that emphasizes its rich color and round shape.",
+  "image_path": "app/outputs/session_20250609_122442\\uploaded_20250609_122442.png",
+  "user_prompt": "Using the same illustration style as the cranberry image I uploaded, draw a vibrant green pear with a smooth surface. Match the exact visual style.",
+  "generated_image_path": "app/outputs/session_20250609_122442\\generated_20250609_122442.png"
+}
