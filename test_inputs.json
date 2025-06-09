@@ -1,0 +1,38 @@
+[
+    {
+        "filename": "test_images/01_Apple.png",
+        "user_prompt": "A soft red tomato with seeds, in flat cartoon vector style, no background"
+    },
+    {
+        "filename": "test_images/S_02_Apricot.png",
+        "user_prompt": "Draw a shiny red apple with a vibrant green leaf in the same digital illustration style as 'S_02_Apricot.png'. The apple should be centered, well-lit, and have soft shadows like the apricot image."
+    },
+    {
+        "filename": "test_images/S_03_Avocado_1.png",
+        "user_prompt": "Draw a yellow lemon and a sliced lemon in the same illustration style as the uploaded image (S_03_Avocado_1.png). Match the lighting, colors, and vector look."
+    },
+    {
+        "filename": "test_images/04_Banana.png",
+        "user_prompt": "Draw an apricot with a glossy surface in the same cartoon vector style as the image I uploaded."
+    },
+    {
+        "filename": "test_images/05_Black_currant.png",
+        "user_prompt": "Using the same style as the provided cluster of black currants, draw a single, big, round, one black currant."
+    },
+    {
+        "filename": "test_images/15_Grapes.png",
+        "user_prompt": "Draw a cluster of glossy black currants in the same cartoon vector style as the grapes image I uploaded."
+    },
+    {
+        "filename": "test_images/30_Salmon.png",
+        "user_prompt": "Draw a sliced salmon fillet in the exact same illustration style as the whole salmon image I uploaded. Match the cartoon vector look, colors, and outlines."
+    },
+    {
+        "filename": "test_images/35_Catfish.png",
+        "user_prompt": "Draw a salmon in the same drawing style as the catfish image I uploaded (35_Catfish.png). Ensure the illustration matches the style exactly in colors, shading, and vector lines."
+    },
+    {
+        "filename": "test_images/S_30_Orange_1.png",
+        "user_prompt": "Using the same illustration style as the orange slice image I uploaded (S_30_Orange_1.png), draw a vibrant green sliced avocado with a smooth surface. Match the exact visual style."
+    }
+]
