@@ -1,0 +1,9 @@
+{
+  "caption": "Two vibrant red strawberries, one whole and one sliced in half to reveal its juicy interior, with bright green leaves on top, in a colorful flat vector cartoon style, soft lighting, vivid colors, no background",
+  "drawing_style": "flat vector cartoon",
+  "quantity": 2,
+  "background": "no background",
+  "image_path": "app/outputs_method2/session_20250609_150929\\uploaded_20250609_150929.png",
+  "user_prompt": "This is a strawberry draw me a yellow banana, keep this style, ",
+  "generated_image_path": "app/outputs_method2/session_20250609_150929\\generated_20250609_150929.png"
+}

@@ -11,7 +11,7 @@ from openai import OpenAI
 from datetime import datetime
 from config import OPENAI_API_KEY
 
-# Kullanım örneği:
+
 client = OpenAI(api_key=OPENAI_API_KEY)
 image_extensions = (".jpg", ".jpeg", ".png")
 
@@ -56,15 +56,18 @@ st.write("Upload a food image and provide a redesign prompt. A new image will be
 uploaded_file = st.file_uploader("Upload a food image", type=["jpg", "jpeg", "png"])
 st.markdown("""
 Prompt Samples
+- This is a  black currant . Draw me a green pear. Use the same image drawing style in the image.
+- Draw a shiny red apple illustrated in flat cartoon vector style with vibrant colors and soft lighting, no background, use the same style in the picture I provided.
 - A soft red tomato with seeds, in flat cartoon vector style, no background
 - Using the same illustration style as the image I uploaded, draw a vibrant green pear with a smooth surface. Match the exact visual style.
+- Draw a sliced salmon fillet in the exact same illustration style as the whole salmon image I uploaded. Match the cartoon vector look, colors, and outlines.
 """)
 user_prompt = st.text_input("Enter your redesign prompt")
 
 if uploaded_file and user_prompt:
     # Create timestamp and directory
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    output_dir = f"app/outputs_method2/session_{timestamp}"
+    output_dir = f"output_st/outputs_method2/session_{timestamp}"
     os.makedirs(output_dir, exist_ok=True)
 
     # Save uploaded image

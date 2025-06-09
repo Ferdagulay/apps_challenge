@@ -11,6 +11,6 @@ st.markdown("""
 st.markdown("In this application, you can try 3 different methods:")
 st.markdown("- **Method 1**: GPT-4o-mini_and_DALL-E-3 Pipeline Base")
 st.markdown("- **Method 2**: GPT-4o-mini_and_DALL-E-3 Pipeline Base (Enhanced)")
-st.markdown("- **Method 3**: ")
+st.markdown("- **Method 3**: GPT-4.1-mini Pipeline")
 
 st.info("Select a method from the menu on the left.")
