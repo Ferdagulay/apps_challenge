@@ -1,0 +1,17 @@
+[
+  {
+    "original_image": "test_images/S_03_Avocado_1.png",
+    "user_prompt": "Draw a yellow lemon and a sliced lemon in the same illustration style as the uploaded image (S_03_Avocado_1.png). Match the lighting, colors, and vector look.",
+    "generated_image": "outputs/gpt_4_1_prompt/S_03_Avocado_1_gen.png"
+  },
+  {
+    "original_image": "test_images/04_Banana.png",
+    "user_prompt": "Draw an apricot with a glossy surface in the same cartoon vector style as the image I uploaded.",
+    "generated_image": "outputs/gpt_4_1_prompt/04_Banana_gen.png"
+  },
+  {
+    "original_image": "test_images/05_Black_currant.png",
+    "user_prompt": "Using the same style as the provided cluster of black currants, draw a single, big, round, one black currant.",
+    "generated_image": "outputs/gpt_4_1_prompt/05_Black_currant_gen.png"
+  }
+]
