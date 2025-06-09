@@ -34,5 +34,13 @@
     {
         "filename": "test_images/S_30_Orange_1.png",
         "user_prompt": "Using the same illustration style as the orange slice image I uploaded (S_30_Orange_1.png), draw a vibrant green sliced avocado with a smooth surface. Match the exact visual style."
+    },
+    {
+        "filename": "test_images/S_05_Black currant_3.png",
+        "user_prompt": "This is a  black currant . Draw me a green pear. Use the same image drawing style in the image."
+    },
+    {
+        "filename": "test_images/S_11_Cranbverry_1.png",
+        "user_prompt": "This is a  cranberry . Draw me a green pear. Use the same image drawing style in the image."
     }
 ]
