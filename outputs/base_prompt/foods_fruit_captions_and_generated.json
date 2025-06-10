@@ -1,79 +1,79 @@
 [
   {
     "category": "apple",
-    "caption": "A shiny red apple with a vibrant green leaf beside a freshly sliced half revealing its creamy white flesh and small brown seeds, illustrated in a flat cartoon vector style with soft lighting and no background.",
+    "caption": "A shiny red apple with a vibrant green leaf and a sliced half revealing its white flesh and brown seeds, in flat cartoon vector style, bright colors, no background.",
     "image_path": "test_images/01_Apple.png",
-    "user_prompt": "<actual user prompt>",
-    "generated_image_path": "outputs/base_prompt/a_soft_red_tomato_with_seeds_in_flat_cartoon_vector_style_no_background_generated.png"
+    "user_prompt": "A soft red tomato with seeds, in flat cartoon vector style, no background",
+    "generated_image_path": "outputs/base_prompt/a_soft_red_tomato_with_seeds_in_flat_cartoon_vector_style_no_background.png"
   },
   {
-    "category": "peach",
-    "caption": "A vibrant orange peach with a glossy surface and a small green leaf attached to its stem, illustrated in a smooth, flat cartoon vector style, against a plain white background.",
+    "category": "apple",
+    "caption": "A shiny red apple with a vibrant green leaf, illustrated in a flat cartoon vector style, featuring soft shadows and bright highlights, centered against a plain white background.",
     "image_path": "test_images/S_02_Apricot.png",
-    "user_prompt": "<actual user prompt>",
-    "generated_image_path": "outputs/base_prompt/draw_a_shiny_red_apple_with_a_vibrant_green_leaf_in_the_same_digital_illustration_style_as_s_02_apricotpng_the_apple_should_be_centered_well-lit_and_have_soft_shadows_like_the_apricot_image_generated.png"
-  },
-  {
-    "category": "avocado",
-    "caption": "A vibrant green avocado half with a smooth, creamy yellow interior and a round brown pit, illustrated in a flat cartoon vector style with bold outlines and bright colors, set against a plain white background.",
-    "image_path": "test_images/S_03_Avocado_1.png",
-    "user_prompt": "<actual user prompt>",
-    "generated_image_path": "outputs/base_prompt/draw_a_yellow_lemon_and_a_sliced_lemon_in_the_same_illustration_style_as_the_uploaded_image_s_03_avocado_1png_match_the_lighting_colors_and_vector_look_generated.png"
-  },
-  {
-    "category": "banana",
-    "caption": "A cluster of three ripe bananas with a vibrant yellow hue and subtle green tips, illustrated in a smooth, flat cartoon vector style with soft shadows, set against a plain white background.",
-    "image_path": "test_images/04_Banana.png",
-    "user_prompt": "<actual user prompt>",
-    "generated_image_path": "outputs/base_prompt/draw_an_apricot_with_a_glossy_surface_in_the_same_cartoon_vector_style_as_the_image_i_uploaded_generated.png"
-  },
-  {
-    "category": "blackcurrants",
-    "caption": "A cluster of glossy blackcurrants with a rich, deep purple-black hue, nestled among vibrant green leaves, illustrated in a playful cartoon style with soft shading and no background.",
-    "image_path": "test_images/05_Black_currant.png",
-    "user_prompt": "<actual user prompt>",
-    "generated_image_path": "outputs/base_prompt/using_the_same_style_as_the_provided_cluster_of_black_currants_draw_a_single_big_round_one_black_currant_generated.png"
-  },
-  {
-    "category": "grapes",
-    "caption": "A cluster of plump, dark purple grapes with a glossy finish and a few vibrant green leaves, illustrated in a colorful flat vector cartoon style, with no background.",
-    "image_path": "test_images/15_Grapes.png",
-    "user_prompt": "Create a vibrant cartoon-style illustration of grapes.",
-    "generated_image_path": "outputs/base_prompt/draw_a_cluster_of_glossy_black_currants_in_the_same_cartoon_vector_style_as_the_grapes_image_i_uploaded_generated.png"
-  },
-  {
-    "category": "fish",
-    "caption": "A detailed illustration of a silver fish with a streamlined body, featuring dark blue fins and a speckled pattern along its sides, depicted in a flat cartoon vector style with soft shading and no background.",
-    "image_path": "test_images/30_Salmon.png",
-    "user_prompt": "Create a cartoon-style fish illustration.",
-    "generated_image_path": "outputs/base_prompt/draw_a_sliced_salmon_fillet_in_the_exact_same_illustration_style_as_the_whole_salmon_image_i_uploaded_match_the_cartoon_vector_look_colors_and_outlines_generated.png"
-  },
-  {
-    "category": "catfish",
-    "caption": "A stylized catfish with a smooth, elongated body in shades of orange and brown, featuring prominent whiskers and detailed fins, illustrated in a flat cartoon vector style with no background.",
-    "image_path": "test_images/35_Catfish.png",
-    "user_prompt": "<actual user prompt>",
-    "generated_image_path": "outputs/base_prompt/draw_a_salmon_in_the_same_drawing_style_as_the_catfish_image_i_uploaded_35_catfishpng_ensure_the_illustration_matches_the_style_exactly_in_colors_shading_and_vector_lines_generated.png"
+    "user_prompt": "Draw a shiny red apple with a vibrant green leaf in the same digital illustration style as 'S_02_Apricot.png'. The apple should be centered, well-lit, and have soft shadows like the apricot image.",
+    "generated_image_path": "outputs/base_prompt/draw_a_shiny_red_apple_with_a_vibrant_green_leaf_in_the_same_digital_illustration_style_as_s_02_apricotpng_the_apple_should_be_centered_well-lit_and_have_soft_shadows_like_the_apricot_image.png"
   },
   {
     "category": "lemon",
-    "caption": "A vibrant yellow lemon slice with a glossy surface and visible juice droplets, featuring a bright white rind and detailed segments, in a flat cartoon vector style, soft lighting, vivid colors, no background",
+    "caption": "A bright yellow lemon and a sliced lemon revealing its juicy interior, illustrated in a flat cartoon vector style with soft lighting and vivid colors, set against a plain white background.",
+    "image_path": "test_images/S_03_Avocado_1.png",
+    "user_prompt": "Draw a yellow lemon and a sliced lemon in the same illustration style as the uploaded image (S_03_Avocado_1.png). Match the lighting, colors, and vector look.",
+    "generated_image_path": "outputs/base_prompt/draw_a_yellow_lemon_and_a_sliced_lemon_in_the_same_illustration_style_as_the_uploaded_image_s_03_avocado_1png_match_the_lighting_colors_and_vector_look.png"
+  },
+  {
+    "category": "banana",
+    "caption": "A bunch of three ripe bananas with a glossy yellow surface and subtle green accents at the tops, illustrated in a vibrant cartoon vector style with smooth curves and minimal shading, set against a plain white background.",
+    "image_path": "test_images/04_Banana.png",
+    "user_prompt": "Draw an apricot with a glossy surface in the same cartoon vector style as the image I uploaded.",
+    "generated_image_path": "outputs/base_prompt/draw_an_apricot_with_a_glossy_surface_in_the_same_cartoon_vector_style_as_the_image_i_uploaded.png"
+  },
+  {
+    "category": "black currant",
+    "caption": "A single, large, round black currant with a glossy, deep purple-black surface, featuring subtle highlights and a small brown stem, set against a clean white background in a vibrant, flat cartoon vector style.",
+    "image_path": "test_images/05_Black_currant.png",
+    "user_prompt": "Using the same style as the provided cluster of black currants, draw a single, big, round, one black currant.",
+    "generated_image_path": "outputs/base_prompt/using_the_same_style_as_the_provided_cluster_of_black_currants_draw_a_single_big_round_one_black_currant.png"
+  },
+  {
+    "category": "black currants",
+    "caption": "A cluster of glossy black currants with a shiny surface and subtle highlights, featuring small green leaves attached to the stems, illustrated in a vibrant cartoon vector style with bold outlines and no background.",
+    "image_path": "test_images/15_Grapes.png",
+    "user_prompt": "Draw a cluster of glossy black currants in the same cartoon vector style as the grapes image I uploaded.",
+    "generated_image_path": "outputs/base_prompt/draw_a_cluster_of_glossy_black_currants_in_the_same_cartoon_vector_style_as_the_grapes_image_i_uploaded.png"
+  },
+  {
+    "category": "salmon",
+    "caption": "A sliced salmon fillet with a vibrant pink hue and delicate marbling, presented in a flat cartoon vector style with smooth outlines and soft shading, against a plain white background.",
+    "image_path": "test_images/30_Salmon.png",
+    "user_prompt": "Draw a sliced salmon fillet in the exact same illustration style as the whole salmon image I uploaded. Match the cartoon vector look, colors, and outlines.",
+    "generated_image_path": "outputs/base_prompt/draw_a_sliced_salmon_fillet_in_the_exact_same_illustration_style_as_the_whole_salmon_image_i_uploaded_match_the_cartoon_vector_look_colors_and_outlines.png"
+  },
+  {
+    "category": "salmon",
+    "caption": "A vibrant pink salmon with a sleek body and distinct silver scales, illustrated in a flat cartoon vector style with smooth lines and soft shading, set against a plain white background.",
+    "image_path": "test_images/35_Catfish.png",
+    "user_prompt": "Draw a salmon in the same drawing style as the catfish image I uploaded (35_Catfish.png). Ensure the illustration matches the style exactly in colors, shading, and vector lines.",
+    "generated_image_path": "outputs/base_prompt/draw_a_salmon_in_the_same_drawing_style_as_the_catfish_image_i_uploaded_35_catfishpng_ensure_the_illustration_matches_the_style_exactly_in_colors_shading_and_vector_lines.png"
+  },
+  {
+    "category": "avocado",
+    "caption": "A vibrant green sliced avocado with a smooth surface, showcasing its creamy texture and rich color in a flat cartoon vector style, soft lighting, vivid colors, no background.",
     "image_path": "test_images/S_30_Orange_1.png",
-    "user_prompt": "<actual user prompt>",
-    "generated_image_path": "outputs/base_prompt/using_the_same_illustration_style_as_the_orange_slice_image_i_uploaded_s_30_orange_1png_draw_a_vibrant_green_sliced_avocado_with_a_smooth_surface_match_the_exact_visual_style_generated.png"
+    "user_prompt": "Using the same illustration style as the orange slice image I uploaded (S_30_Orange_1.png), draw a vibrant green sliced avocado with a smooth surface. Match the exact visual style.",
+    "generated_image_path": "outputs/base_prompt/using_the_same_illustration_style_as_the_orange_slice_image_i_uploaded_s_30_orange_1png_draw_a_vibrant_green_sliced_avocado_with_a_smooth_surface_match_the_exact_visual_style.png"
   },
   {
-    "category": "black olive",
-    "caption": "A glossy black olive with a small brown blemish, depicted in a smooth cartoon vector style, featuring soft lighting and rich, dark colors, with no background.",
+    "category": "black currant",
+    "caption": "A single glossy black currant with a smooth surface and a small brownish stem, depicted in a flat cartoon vector style with vibrant colors and no background.",
     "image_path": "test_images/S_05_Black currant_3.png",
-    "user_prompt": "<actual user prompt>",
-    "generated_image_path": "outputs/base_prompt/this_is_a_black_currant_draw_me_a_green_pear_use_the_same_image_drawing_style_in_the_image_generated.png"
+    "user_prompt": "This is a  black currant . Draw me a green pear. Use the same image drawing style in the image.",
+    "generated_image_path": "outputs/base_prompt/this_is_a_black_currant_draw_me_a_green_pear_use_the_same_image_drawing_style_in_the_image.png"
   },
   {
-    "category": "cherry",
-    "caption": "A vibrant red cherry with a glossy surface and a small dark pit, depicted in a flat cartoon vector style with soft shadows, vivid colors, and no background.",
+    "category": "cranberry",
+    "caption": "A vibrant red cranberry with a glossy surface and subtle highlights, featuring a small dark indentation, in a flat cartoon vector style with soft lighting and no background.",
     "image_path": "test_images/S_11_Cranbverry_1.png",
-    "user_prompt": "Generate a detailed caption for a cherry image.",
-    "generated_image_path": "outputs/base_prompt/this_is_a_cranberry_draw_me_a_green_pear_use_the_same_image_drawing_style_in_the_image_generated.png"
+    "user_prompt": "This is a  cranberry . Draw me a green pear. Use the same image drawing style in the image.",
+    "generated_image_path": "outputs/base_prompt/this_is_a_cranberry_draw_me_a_green_pear_use_the_same_image_drawing_style_in_the_image.png"
   }
 ]
